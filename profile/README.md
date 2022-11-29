@@ -11,4 +11,3 @@
 
 ### What we are doing is...
     Improving the safety of the Boeing Workers.
-    Ethan was here
