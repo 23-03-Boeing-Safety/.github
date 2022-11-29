@@ -11,5 +11,4 @@
 
 ### What we are doing is...
     Improving the safety of the Boeing Workers.
-    And making an app to watch their movement
 
