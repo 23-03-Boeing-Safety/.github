@@ -14,6 +14,6 @@ This repository is for the creation of a non-motion detection prototype that wil
 
 ## Developers 
 
-| <a href="https://github.com/Ethan7144"><img src="https://github.com/Ethan7144.png"/></a>        | <a href="https://github.com/kidlatmc29"><img src="https://github.com/kidlatmc29.png"/></a> | <a href="https://github.com/Azure7u"><img src="https://github.com/Azure7u.png"/></a>                                                     |
+| <a href="https://github.com/Ethan7144"><img src="https://github.com/Ethan7144.png"/></a>        | <a href="https://github.com/Hansen09"><img src="https://github.com/Hansen09.png"/></a> | <a href="https://github.com/Azure7u"><img src="https://github.com/Azure7u.png"/></a>                                                     |
 |-------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|--------------------------------------------------------------|
-| Ethan Tarlov <br><small>*ejtarlov@me.com*</small>                                           | Isabel Ovalles<br/><small>*isabeltovalles@gmail.com*</small>                               | Matthew Lau <br/><small>*Mlau24780@gmail.com*</small> |
+| Ethan Tarlov <br><small>*ejtarlov@me.com*</small>                                           | Hansen Rahadi <br/><small>*hansenrahadi@gmail.com*</small>                               | Matthew Lau <br/><small>*Mlau24780@gmail.com*</small> |
