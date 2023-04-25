@@ -4,7 +4,7 @@ CS 23.03 Capstone Project, Boeing Safety App.
 
 ## What we are doing is...
    Improving the safety of the Boeing Workers.
-   And making an app to watch their movement
+   By Creating a Mobile App that will alert a manager of a potential emergency.
 
 ## Built With
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
